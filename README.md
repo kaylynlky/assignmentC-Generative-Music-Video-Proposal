@@ -34,7 +34,9 @@ C:midibus/ControlP5
 D:calm and changes to frantic
 
 
-# Visual sketches of what to use as visual elements in my work:
+# Reference visual sketches:
+
+
 
 
 
