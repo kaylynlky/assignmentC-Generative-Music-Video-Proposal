@@ -35,4 +35,6 @@ D: calm and changes to frantic
 
 # Reference visual sketches:
 
-
+![image] (https://68.media.tumblr.com/b812f3ad5e3f1789b84e8a305afafbf6/tumblr_omprhpksxw1w2lqcbo1_1280.png)
+![image] (https://68.media.tumblr.com/ce7b9845f2a67ba620d3377174394699/tumblr_omprhpksxw1w2lqcbo2_1280.png)
+![image] (https://68.media.tumblr.com/b68cc5334d5aaca57ceea48a4087c7a9/tumblr_omprhpksxw1w2lqcbo3_1280.png)
