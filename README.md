@@ -20,7 +20,7 @@ The purpose of the video should serve as a reminder how vast our life boundaries
 
 Mikkel Koser's <i>COP15 Identity</i> shows how he manipulates the ControlP5 which allows the sketch to be controlled using a controller for <u>midi/live performance</u> to evolve the <u>algorithmic lines</u> from simplexity to complexity. The visuals are also <u>audio interactive</u> which changes according to the <u>mood/tension</u> of the music piece.
 
-Reinoud van Laar's <i>Fluid Leaves/Leaves Pattern</i> made use of libraries such as ControlP5 and Geomerative. What I enjoy particular is the random replica of </u>algorithmic patterns</u> which also incorporate <u>PerlinNoise</u>. He manipulates the initial simple geometric patterns (organic waveforms) transforms into different random algorithm forms and elements (noise waveforms).
+Reinoud van Laar's <i>Fluid Leaves/Leaves Pattern</i> made use of libraries such as ControlP5 and Geomerative. What I enjoy particularly is the random replica of </u>algorithmic patterns</u> which also incorporate <u>PerlinNoise</u>. He manipulates the initial simple geometric patterns (organic waveforms) transforms into different random algorithm forms and elements (noise waveforms).
 
 The above references inspire me to work in the direction visually.
 
