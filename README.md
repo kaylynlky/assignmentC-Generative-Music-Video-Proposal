@@ -1,4 +1,4 @@
-# assignmentC-Generative-Music-Video-Proposal
+# assignmentD-Generative-Music-Video-Proposal
 
 B-MU225/PRINCIPAL STUDY 2 (ELECTRONIC MUSIC)/AY16-17
 
