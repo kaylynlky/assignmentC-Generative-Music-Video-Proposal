@@ -36,7 +36,7 @@ C: midibus/ControlP5
 
 D: calm and changes to frantic
 
-# Reference sketches:
+# Reference sketches above project:
 
 ![image](https://68.media.tumblr.com/b812f3ad5e3f1789b84e8a305afafbf6/tumblr_omprhpksxw1w2lqcbo1_1280.png)
 
