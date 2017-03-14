@@ -22,6 +22,9 @@ Mikkel Koser's <i>COP15 Identity</i> shows how he manipulates the ControlP5 whic
 
 Reinoud van Laar's <i>Fluid Leaves/Leaves Pattern</i> made use of libraries such as ControlP5 and Geomerative. What I enjoy particularly is the random replica of </u>algorithmic patterns</u> which also incorporate <u>PerlinNoise</u>. He manipulates the initial simple geometric patterns (organic waveforms) transforms into different random algorithm forms and elements (noise waveforms).
 
+He could have us <u>PeasyCam</u> to create a camera reactive effect to move and pan, to create multiple view of leaf forms.
+Also, he could have experimented using <u>Damien Di Fede's Minim</u> to generate different leaves overlapping patterns (tessellations). After which he can use interactive data visualisation or duration application to sync both audio and visuals together.
+
 The above references inspire me to work in the direction visually.
 
 # Categories
@@ -33,7 +36,7 @@ C: midibus/ControlP5
 
 D: calm and changes to frantic
 
-# Reference visual sketches:
+# Reference sketches:
 
 ![image] (https://68.media.tumblr.com/b812f3ad5e3f1789b84e8a305afafbf6/tumblr_omprhpksxw1w2lqcbo1_1280.png)
 ![image] (https://68.media.tumblr.com/ce7b9845f2a67ba620d3377174394699/tumblr_omprhpksxw1w2lqcbo2_1280.png)
