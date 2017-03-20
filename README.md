@@ -27,15 +27,14 @@ Also, he could have experimented using <u>Damien Di Fede's Minim</u> to generate
 The above references inspire me to work in this direction visually.
 
 # Categories
+
 A: Algorithmic, Noise-field
 
 B: Audio reactive
 
 C: ControlP5
 
-D: Initial: calm
-   Changes: franatcic
-   Final: calm
+D: Calm -> fanatic -> calm
    
 
 # Reference sketches that are relevant to my work :
