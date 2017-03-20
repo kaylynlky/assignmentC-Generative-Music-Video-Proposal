@@ -12,7 +12,7 @@ http://kaylynlky.weebly.com/ or http://processingwkay.tumblr.com
 
 <b>Short abstract/description</b>:
 
-<i>"Boundaries"</i> shall be a refinement of my previous sketch in assignmentB with an object sketch that I had done for practice. My soundtrack used is titled <i>"Breathe"</i>.
+<i>"Boundaries"</i> shall be a refinement of my previous sketch in assignmentB with an object sketch that I had done for practice. My soundtrack used is titled <i>"Breathe"</i>. The sketch will be organic in nature.
 
 The purpose of the video should serve as a reminder how vast our life boundaries are; life is always full of ups and down. The piece should give strength and encouragement to everyone to continue to breathe for the one they love, as it is the most genuine reason to strive for in life.
 
@@ -22,7 +22,6 @@ Mikkel Koser's <i>COP15 Identity</i> shows how he manipulates the ControlP5 whic
 
 Reinoud van Laar's <i>Fluid Leaves/Leaves Pattern</i> made use of libraries such as ControlP5 and Geomerative. What I enjoy particularly is the random replica of </u>algorithmic patterns</u> which also incorporate <u>PerlinNoise</u>. He manipulates the initial simple geometric patterns (organic waveforms) transforms into different random algorithm forms and elements (noise waveforms).
 
-He could have us <u>PeasyCam</u> to create a camera reactive effect to move and pan, to create multiple view of leaf forms.
 Also, he could have experimented using <u>Damien Di Fede's Minim</u> to generate different leaves overlapping patterns (tessellations). After which he can use interactive data visualisation or duration application to sync both audio and visuals together.
 
 The above references inspire me to work in the direction visually.
