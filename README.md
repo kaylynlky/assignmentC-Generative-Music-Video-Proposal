@@ -40,14 +40,15 @@ D: Initial: calm
 
 # Reference sketches that are relevant to my work :
 
+<u><i> Reinoud van Laar's Fluid Leaves/Leaves Pattern</i></u>
+
 ![image](https://68.media.tumblr.com/b812f3ad5e3f1789b84e8a305afafbf6/tumblr_omprhpksxw1w2lqcbo1_1280.png)
 
 ![image](https://68.media.tumblr.com/ce7b9845f2a67ba620d3377174394699/tumblr_omprhpksxw1w2lqcbo2_1280.png)
 
-<i> Reinoud van Laar's Fluid Leaves/Leaves Pattern</i>
-
 ![image](https://68.media.tumblr.com/b68cc5334d5aaca57ceea48a4087c7a9/tumblr_omprhpksxw1w2lqcbo3_1280.png)
 
-![image](https://68.media.tumblr.com/ed88796575c26feed9eb62f3483dd490/tumblr_omprhpksxw1w2lqcbo4_1280.png)
 
-<i> Mikkel Koser's COP15 Identity</i>
+<u><i> Mikkel Koser's COP15 Identity</i></u>
+
+![image](https://68.media.tumblr.com/ed88796575c26feed9eb62f3483dd490/tumblr_omprhpksxw1w2lqcbo4_1280.png)
