@@ -29,7 +29,7 @@ The above references inspire me to work in the direction visually.
 # Categories
 A: algorithmic
 
-B: audio reactive/camera reactive
+B: audio reactive
 
 C: midibus/ControlP5
 
