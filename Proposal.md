@@ -1,6 +1,6 @@
-# assignmentD-Generative-Music-Video-Proposal
+# assignmentD-Video-Proposal
 
-B-MU225/PRINCIPAL STUDY 2 (ELECTRONIC MUSIC)/AY16-17
+B-MU225/PRINCIPAL STUDY 2B (EM) AY16-17
 
 Lee Kai Yin, Kaylyn (18032)
 
