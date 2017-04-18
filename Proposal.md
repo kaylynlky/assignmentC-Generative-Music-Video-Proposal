@@ -4,7 +4,7 @@ B-MU225/PRINCIPAL STUDY 2B (EM) AY16-17
 
 Lee Kai Yin, Kaylyn (18032)
 
-http://kaylynlky.weebly.com/ or http://processingwkay.tumblr.com
+http://processingwkay.tumblr.com
 
 ## Proposal for assignmentD video
 
@@ -12,7 +12,7 @@ http://kaylynlky.weebly.com/ or http://processingwkay.tumblr.com
 
 <b>Short abstract/description</b>:
 
-The purpose of the video should serve as a reminder how vast our life boundaries are; life is always full of ups and down. The piece should give strength and encouragement to everyone to continue to breathe for the one they love, as it is the most genuine reason to strive for in life. I will use my own soundtrack "Dusk". The sketch will be organic in nature.
+The purpose of the video should serve as a reminder how vast our life boundaries are; life is always full of ups and down. The piece should give strength and encouragement to everyone to continue to breathe for the one they love, as it is the most genuine reason to strive for in life. I will use my own soundtrack. The sketch will be simple, minimalist and organic in nature.
 
 <b>Selected references are relevant to my work:</b>
 
@@ -24,7 +24,7 @@ The above references inspire me to work in this direction visually.
 
 # Categories
 
-A: Algorithmic, Noise-field
+A: Algorithmic, Geometric
 
 B: Audio Reactive
 
